@@ -1,0 +1,5 @@
+{
+  "half_width": 17803.333984375004,
+  "level": 0.9,
+  "method": "empirical quantile of |residual| on validation set (symmetric interval; documented limitation)"
+}

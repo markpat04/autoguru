@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# Virtual envs
+.venv/
+venv/
+# Data & large artifacts (regenerable — see README / data/README.md)
+data/
+# Models: keep small trained artifacts, drop caches
+*.pt.bak
+# Env & secrets
+.env
+# Test caches
+.pytest_cache/
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

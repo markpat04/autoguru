@@ -1,0 +1,13 @@
+autogluon-tabular==1.6.3
+fastapi==0.143.0
+uvicorn[standard]==0.54.0
+gradio==6.30.0
+pandas==2.3.3
+scikit-learn==1.9.1
+lightgbm==4.7.0
+xgboost==3.4.1
+catboost==1.2.10
+pytest==9.1.1
+httpx==0.28.1
+pyarrow==24.0.0
+numpy>=1.24
